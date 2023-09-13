@@ -1,1 +1,26 @@
 /*  your css code here. If applicable */
+.allbox{
+	display:flex;
+	justify-content:center;
+	align-items:center;
+	margin-top:25%;
+	
+}
+.box{
+	display:flex;
+	justify-content:center;
+	align-items:center;
+	background-color:lightblue;
+	width:200px;
+	height:200px;
+	border:2px solid black;
+}
+
+.container{
+	color:purple;
+	
+	
+}
+
+	
+
