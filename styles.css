@@ -1,10 +1,10 @@
 /*  your css code here. If applicable */
 .allbox{
+	border-top-width:2px;
 	display:flex;
 	justify-content:center;
 	align-items:center;
 	height:100vh;
-	border-top-width:2px;
 	
 }
 .box{
